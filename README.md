@@ -1,2 +1,2 @@
-# RandomImageGenerator
-A Random Image on every click !
+# SearchImages
+The image you need in a  click !
